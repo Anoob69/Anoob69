@@ -1,4 +1,4 @@
-### Hola, I am Anoop Boby Mnauel 👋
+### Hola, I am Anoop Boby Manuel 👋
 
 - 🔭 I’m currently working on Game Development
 - 🌱 I’m currently learning C#
